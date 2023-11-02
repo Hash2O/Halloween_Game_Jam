@@ -8,6 +8,7 @@ TagManager:
   - Flame
   - Water
   - Destroyer
+  - Treat
   layers:
   - Default
   - TransparentFX
